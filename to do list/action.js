@@ -5,7 +5,7 @@ var a=0;
 button.addEventListener('click',()=>{
   
   
-  console.log(a);
+ 
   a++
    var card = document.createElement('div');
    card.classList.add('card')
